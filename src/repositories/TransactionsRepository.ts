@@ -13,9 +13,7 @@ class TransactionsRepository {
     this.transactions = [];
   }
 
-  public all(): Transaction[] {
-    // TODO
-  }
+  public all(): Transaction[] {}
 
   public getBalance(): Balance {
     // TODO
